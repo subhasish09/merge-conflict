@@ -10,6 +10,10 @@ Initial Security()
  //Sample Code
 }
 
+feature1 features()
+{
+ //sample code	
+}
 
 
 }
